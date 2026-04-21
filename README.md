@@ -1,19 +1,13 @@
-<h1>Welcome to the</h1> ToyHouse <h1>Repo</h1>
-
-**Hi**
+# Welcome to the ToyHouse Repo
 
 ```
 Welcome in guys
 ```
 
-## wasd
+Click the link below for a website to play with the html freely
 
-> RAHHH
+[HTML Playground](https://onecompiler.com/html)
 
-1. List1
-2. List2
-3. List3
-4. List4
-5. List5
-    - ListList5
-        - ListListList5
+Click this link to visit our website. Recommended to hold ctrl to open in new tab. 
+
+[Our website](https://saladbarcodes.github.io/TH_Webpage/)
